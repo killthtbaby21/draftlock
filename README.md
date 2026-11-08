@@ -17,7 +17,7 @@
 需要 Python 3.10 或以上。
 
 ```bash
-git clone https://github.com/<your-account>/draftlock.git
+git clone https://github.com/killthtbaby21/draftlock.git
 cd draftlock
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
